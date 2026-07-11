@@ -23,7 +23,7 @@ repository               : "patricktenga-svg/patricktenga-svg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "patrick.jpg" # filename of avatar image placed in /images/ for social media previews
   name             : "Patrick Tenga"
   pronouns         : # example: "she/her"  
   bio              : "Deep learning with applications in health informatics, NLP and LLMs enthousiast"
