@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [University Name], [Year] (expected)
+* Ph.D in Computer Science, Alexandria University, 2026 (expected)
 * M.S. in Mathematical Sciences, AIMS Senegal, 2017
-* B.S. in [Field], [University Name], [Year]
+* B.S. in Mathematics and Computing, Lubumbashi University, 2015
 
 Work experience
 ======
-* [Position Title], [Organization], [Dates]
-  * Duties included: [Description of duties]
-  * Supervisor: [Supervisor Name]
+* Tutor, African Institute for Mathematical Sciences (AIMS) Cameroon, Aug 2025 - present
+  * Duties included: Assisting lecturers in data science courses and monitoring students
+  * Supervisor: Academic Director
 
-* [Position Title], [Organization], [Dates]
-  * Duties included: [Description of duties]
-  * Supervisor: [Supervisor Name]
+* Teacher Assistant, Nouveaux Horizons University, Oct 2017 - Oct 2020
+  * Duties included: Assisting lecturers in computer science faculty and technology sciences faculty during mathematical courses and statistical courses, conducting myself also some courses at the first level as trigonometry, geometry, arithmetic, etc. Coordinating examination session and also holding the academic faculty secretary position 
+  * Supervisor: General Academic Secretary
 
-* [Position Title], [Organization], [Dates]
-  * Duties included: [Description of duties]
-  * Supervisor: [Supervisor Name]
+* IT Engineer, Digital Prophecy, Apr 2015 - May 2016
+  * Duties included: Trouble shooting of the network, setting up the professional electronic email of customer enterprise, designing card service, printing and delivery services
+  * Supervisor: Mamie Muzama Sheka
   
 Skills
 ======
@@ -100,12 +100,12 @@ Teaching
 
 Service and leadership
 ======
-* [Leadership role or service], [Organization], [Dates]
-* [Leadership role or service], [Organization], [Dates]
+* Examination session Coordinator, Nouveaux Horizons University, 2019 & 2020
+* Academic faculty secretary, Nouveaux Horizons University, 2018-2020
   
 Scholarships, Awards, and Certifications
 ======
-* [Scholarship Name], [Organization], [Years]
+* Nile bassin scholarship, Egyptian government, 2020-2025
 * [Award Name], [Organization], [Date]
 * [Award Name], [Organization], [Date]
 * [Certification Name], [Organization], [Date]
