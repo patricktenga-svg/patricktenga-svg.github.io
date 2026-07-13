@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "LinguaTriage: Cross-Lingual Transfer and African Language Pretraining for Low-Resource Medical Triage in Lingala"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+#permalink: /publication/2026-07-13-linguatriage
+excerpt: 'This paper presents LinguaTriage, a novel approach combining cross-lingual transfer learning and African language pretraining to enable effective medical triage in Lingala, a low-resource Bantu language. We demonstrate significant performance improvements over baseline models while requiring minimal annotated data.'
+date: 2026-07-13
+venue: 'Proceedings of Machine Learning Research'
+slidesurl: 'https://academicpages.github.io/files/slides_indabaxNaija-2026.pdf'
+paperurl: 'https://proceedings.mlr.press/v319/'
+citation: 'Tenga, P. S., & Kholief, M. A. (2026). LinguaTriage: Cross-Lingual Transfer and African Language Pretraining for Low-Resource Medical Triage in Lingala. In S. Folorunso, R. Ogundokun, & F. Oladipo (Eds.), <i>Proceedings of IndabaX Nigeria 2026: Building Scalable AI That Works: From Research to Deployment in Resource-Constrained Environments</i> (Vol. 319, pp. 87-100). Proceedings of Machine Learning Research.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
