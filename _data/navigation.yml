@@ -23,8 +23,8 @@ main:
   #- title: "Event Posts"
    # url: /year-archive/
     
-  #- title: "CV"
-  #3  url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
