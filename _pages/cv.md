@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [University Name], [Year] (expected)
+* Ph.D in Computer Science, [University Name], [2026] (expected)
 * M.S. in Mathematical Sciences, AIMS Senegal, 2017
-* B.S. in [Field], [University Name], [Year]
+* B.S. in [Mathematics and Computing], University of Lubumbashi, [2015]
 
 Work experience
 ======
